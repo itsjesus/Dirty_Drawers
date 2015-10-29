@@ -85,3 +85,6 @@ DirtyDrawer.prototype.slideDistance = function(){
 window.DirtyDrawer = DirtyDrawer;
 $("body").append("<style>.dirty-placement{transition:none !important;}</style>");
 });
+
+
+// this comment can suck my ass
